@@ -2,7 +2,7 @@
 echo "Онищенко Богдан, Лектор";
 <<<<<<< HEAD
 
-echo "Nikita Test"
+
 =======
 echo "Malyshenko Alexandra, student";
 echo "Dashkovska Anastasia";
